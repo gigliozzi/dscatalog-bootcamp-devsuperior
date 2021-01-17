@@ -23,7 +23,7 @@ public class CategoryResources {
 	@GetMapping
 	public ResponseEntity<List<Category>> findAll() {
 		List<Category> list = service.findAll();		
-		return ResponseEntity.ok().body(list);		
+		return ResponseEntity.ok().body(list);	
 	}
 	
 
