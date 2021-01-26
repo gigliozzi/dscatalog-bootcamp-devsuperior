@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# my Notes
+States-Hooks-exemplos.tsx
+
+#.eslintcache ?? para que serve? não vou comitar..
+.eslintcache
+
+#others
+logo.svg
