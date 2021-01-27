@@ -12,7 +12,7 @@ const sampleApp = () => {
                 className="btn btn-primary mr-5"
                 onClick={() => setCounter(counter - 1)}>
                -
-               </button>
+               </button> 
 
            <span>{counter}</span>
 
