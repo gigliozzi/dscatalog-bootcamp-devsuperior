@@ -26,7 +26,7 @@ yarn-error.log*
 States-Hooks-exemplos.tsx
 
 #.eslintcache ?? para que serve? não vou comitar..
-.eslintcache
+eslintcache
 
 #others
 logo.svg
